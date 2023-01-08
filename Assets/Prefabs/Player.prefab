@@ -2373,7 +2373,7 @@ LineRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: fa9f2a404c3e1c643ad92b9c34b013c9, type: 2}
+  - {fileID: 2100000, guid: 40319aa7d39f4be4190a0067f71ca12d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2462,6 +2462,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f873b337483aae41b3918b73c9f04be, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _arrowPrefab: {fileID: 639115324101715098, guid: e31c8a6672d4d3d408ccfc079df70ae5, type: 3}
 --- !u!1 &7254288538608726894
 GameObject:
   m_ObjectHideFlags: 0
